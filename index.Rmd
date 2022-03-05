@@ -1,6 +1,6 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "THIS IS A TEST"
+image: "TVTest.png"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -14,6 +14,5 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+This is only a test.
+Pretend you never saw this.
