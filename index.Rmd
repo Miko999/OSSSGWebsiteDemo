@@ -1,18 +1,5 @@
 ---
-title: "THIS IS A TEST"
-image: "TVTest.png"
-links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
-output:
-  postcards::jolla
+site: blogdown:::blogdown_site
 ---
- 
-This is only a test.
-Pretend you never saw this.
+
+<!-- This file is for blogdown only. Please do not edit it. -->
